@@ -1,5 +1,5 @@
 function fetchGradeData() {
-  console.log(fetching grade data...");
+  console.log("fetching grade data...");
 }
 
 function populateGradebook(data) {
